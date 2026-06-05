@@ -4,7 +4,7 @@
 
 ---
 
-## Contexto del proyecto
+## Contexto del proyecto 
 
 Traducción no oficial de **Bladesong Demo** al español.
 
