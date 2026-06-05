@@ -1,0 +1,1 @@
+"C:\Users\benja\Desktop\MiPatch\Bladesong\Content\Localization\Game\en\Game.locres" "../../../Bladesong/Content/Localization/Game/en/Game.locres"
