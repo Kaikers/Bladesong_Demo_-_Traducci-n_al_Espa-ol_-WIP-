@@ -91,24 +91,6 @@ Y elimina los StringTables que copiaste manualmente.
 
 ---
 
-## Estructura del repositorio
-
-```
-/
-├── Locres/
-│   ├── es/
-│   │   └── Game.locres       ← Archivo traducido listo para usar
-│   └── Game.json             ← JSON fuente de la traducción (editable)
-├── StringTables/             ← Archivos CSV traducidos
-├── StringTables/       ← Archivos CSV traducidos (funcionando)
-├── Locres/
-│   ├── Game.locres     ← Archivo traducido (pendiente de inyección)
-│   └── Game.json       ← JSON fuente de la traducción
-└── README.md
-```
-
----
-
 ## Cómo funciona — Notas técnicas
 
 El juego usa dos sistemas distintos para los textos:
