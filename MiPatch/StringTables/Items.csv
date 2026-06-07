@@ -1,0 +1,132 @@
+"Key","SourceString","Comment"
+"pigment_name_format","Pigmento – {0}","Template for the item name of pigments. The pigment name is instered for {0}."
+"pigment_description","Un pigmento para teñir cuero y telas. Nunca se agota una vez obtenido.",""
+"book_name_format","Libro – {0}","Plantilla para el nombre del ítem de libros de partes de espada. Aquí se inserta el nombre del pigmento: {0}."
+"book_volume_format","{0}, Vol. {1}","Template for books with multiple volumes, e.g. ""Scales of Steel and Terror, Vol. 2"""
+"book_major_description_format","Un libro principal de partes de espada que enseña los siguientes diseños de partes de espada:
+{0}
+
+Los clientes pueden solicitar específicamente diseños de este libro.",""
+"book_minor_description_format","Un libro menor de partes de espada que enseña los siguientes diseños de partes de espada:
+{0}
+
+Estas partes son para decoración creativa. Tus clientes no las solicitarán.",""
+"book_description_part","– {0}: {1}","Indica que hay más partes de espada contenidas en un libro. 0: Cantidad"
+"book_description_moreparts","– <i>y {0} más</>","Indica una parte de espada contenida en un libro. 0: Categoría, 1: Nombre de la parte"
+
+"book_smithscompanion","Compañero del Herrero",""
+"book_defaultengravings","Grabados Predeterminados",""
+"book_defaultgrips","Empuñaduras Predeterminadas",""
+"book_swordessentials","Fundamentos de la Espada",""
+"book_modularthinking","Pensamiento Modular",""
+"book_twistedsteel","Acero Retorcido",""
+"book_heavyhand","La Mano Pesada",""
+"book_riseandshine","Alzarse y Brillar",""
+"book_crownsgrip","Empuñadura de la Corona",""
+"book_fullcircle","Círculo Completo",""
+"book_hexagonalgrips","Empuñaduras Hexagonales",""
+"book_platedgrips","Empuñaduras Revestidas",""
+"book_twistedgrips","Empuñaduras Retorcidas",""
+"book_elderfuthark","Futhark Antiguo",""
+"book_rainguards","Guardas de Lluvia",""
+"book_calculatedvelvet","Terciopelo Calculado",""
+"book_subduingbeasts","Sobre Domar Bestias",""
+"book_reasontheory","Axiomas de la Razón",""
+"book_reasonpractice","Aplicaciones de la Razón",""
+"book_turningscent","El Aroma del Torneado","Alude tanto a formas simétricas creadas mediante torneado (por ejemplo, torneado en madera) como a pomos con forma de tapón de perfume."
+"book_squaringthecircle","Cuadrar el Círculo",""
+"book_planesofhorizon","Planos del Horizonte",""
+"book_ovalgrips","Empuñaduras Ovaladas",""
+"book_swordsoftheeast","Espadas del Este",""
+"book_cleanclosures","Cierres Limpios",""
+"book_practicalsalvager","El Chatarrero Práctico",""
+"book_warsoftalindh","Las Guerras de Talindh","Talindh es un nombre propio, el reino en el que se encuentra Eren Keep."
+"book_curiositiesofthewild","Curiosidades de lo Salvaje",""
+"book_mountainstheta","Theta de la Montaña",""
+"book_axiswithin","El Eje Interior",""
+"book_sevenswords","Historia del Mundo en Siete Espadas",""
+"book_sihinora","Cabezas de Sihinora",""
+"book_giftofchaoswastes","Don de los Yermos del Caos",""
+"book_talok","Fleco de Talok",""
+"book_yinayo","Cresta de Yinayo",""
+
+"steel_name","Acero",""
+"steel_description","Un metal esencial para la forja de espadas, necesario para fabricar la hoja.",""
+
+"wood_name","Madera",""
+"wood_description","Un material común en la fabricación de espadas, usado en las empuñaduras. Más escaso de lo que solía ser.",""
+
+"leather_name","Cuero",""
+"leather_description","Un material útil para la fabricación de espadas, envuelto alrededor de las empuñaduras para mayor comodidad y control.",""
+
+"gold_name","Oro",""
+"gold_description","Un metal precioso para la fabricación de espadas, usado únicamente con fines decorativos. Antiguamente asociado con Ouzoma, la Voz del Sol y el Destino, quien se dice lo creó para tentar a los mortales con sueños de un futuro mejor.",""
+
+"silver_name","Plata",""
+"silver_description","Un metal precioso para la fabricación de espadas, usado únicamente con fines decorativos. Antiguamente asociado con Myrmec, la Voz de la Luna y la Sabiduría, y del que se dice protege contra los cambiaformas.",""
+
+"slaveshackles_name","Grilletes de Esclavo",""
+"slaveshackles_description","Un sombrío recordatorio de tu pasado. Fúndelos y comienza de nuevo.",""
+
+"oldtools_name","Herramientas Viejas",""
+"oldtools_description","Implementos oxidados que ya han pasado su mejor momento. Solo sirven para chatarra.",""
+
+"brokencartwheel_name","Rueda de Carro Rota",""
+"brokencartwheel_description","Radios destrozados, aro agrietado. Nunca volverá a llevar un carro, pero quizá puedas darle un nuevo propósito.",""
+
+"leatherboot_name","Bota de Cuero",""
+"leatherboot_description","Una solitaria bota de cuero de cabra, sin su compañera.",""
+
+"shackles_name","Grilletes Pesados",""
+"shackles_description","¿Es sangre u óxido lo que motea los bordes de las argollas?",""
+
+"smalldrum_name","Tambor Pequeño",""
+"smalldrum_description","El cuero está rasgado, la madera agrietada. En lo que a tambores respecta, este ya no marca el ritmo.",""
+
+"goldpendant_name","Colgante de Oro",""
+"goldpendant_description","Mejor escóndelo bien. El brillo del oro atrae la envidia como las moscas.",""
+
+"pendant_name","Colgante",""
+"pendant_description","Un adorno de valor modesto. Alguien atesoró este pequeño objeto en su día.",""
+
+"familyheirloom_name","Reliquia Familiar",""
+"familyheirloom_description","Un sofisticado broche de bronce, transmitido por tu linaje durante incontables generaciones. Es lo único que conservas de antes del Cataclismo. Nunca has logrado traducir la inscripción grabada en el borde.",""
+
+"leatherbag_name","Bolsa de Cuero",""
+"leatherbag_description","Una bolsa de cuero muy usada, cerrada con cordones. Puede abrirse para recuperar lo que hay dentro.",""
+
+"ornatebox_name","Caja Ornamentada",""
+"ornatebox_description","Una caja grabada con hermosos y complejos relieves. Puede abrirse para recuperar lo que hay dentro.",""
+
+"oldworldspirit_name","Licor del Viejo Mundo",""
+"oldworldspirit_description","Ámbar líquido en una botella de vidrio turbio. El último ejemplar superviviente de esta añada. Lo has guardado tanto tiempo que ya no sabes si existirá una ocasión lo bastante especial para beberlo.",""
+
+"woodenblacksmith_name","Figura de Madera",""
+"woodenblacksmith_description","Una estatuilla toscamente tallada que representa a un herrero en la forja. Oh, mira su pequeño martillito.",""
+
+"sleepingpotion_name","Pócima de Sueño",""
+"sleepingpotion_description","Vendida como cura para el insomnio, sume al bebedor en un largo y profundo sueño sin sueños.",""
+
+"blackstone_name","Piedra Negra",""
+"blackstone_description","Bebe la luz y devora la mente. Si la miras demasiado tiempo, descubres que ha pasado una hora y te duele la cabeza.",""
+
+"orelindaggerscorched_name","Daga Chamuscada",""
+"orelindaggerscorched_description","Una daga rescatada de las ruinas humeantes de un molino de papel. Aunque ennegrecida por el fuego, es la única pista sobre la identidad del incendiario.",""
+
+"orelindaggercleaned_name","Daga Limpia",""
+"orelindaggercleaned_description","Ahora que está limpia, es evidente que esta daga es de excelente manufactura.",""
+
+"horseshoe_name","Herradura",""
+"horseshoe_description","El pan de cada día del herrero común; las herraduras fueron antaño símbolo de Skell y se decía que traían buena suerte.",""
+
+"tankard_name","Jarra Vacía",""
+"tankard_description","Un recipiente para beber y, si estás lo bastante ebrio, un instrumento de percusión.",""
+
+"brokenhelmet_name","Yelmo Arruinado",""
+"brokenhelmet_description","Esto implica que en algún lugar hay una cabeza arruinada.",""
+
+"scoutscollar_name","Collar de Explorador",""
+"scoutscollar_description","Un discreto collar de cuero con una sencilla anilla de latón. Lo bastante ligero como para no frenar a un buen perro.",""
+
+"warhoundscollar_name","Collar de Sabueso de Guerra",""
+"warhoundscollar_description","Cuero grueso y acolchado, diseñado para proteger la garganta de hoja y garra.",""
