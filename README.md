@@ -25,7 +25,7 @@ Descarga `repak-x86_64-pc-windows-msvc.zip`, extrae el `.exe` y colócalo en una
 
 ---
 
-## Instalación
+## Instalación (Ingresar códigos a Powershell)
 
 ### Paso 1 — Backup del pak original
 
