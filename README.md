@@ -100,6 +100,10 @@ Y elimina los StringTables que copiaste manualmente.
 │   │   └── Game.locres       ← Archivo traducido listo para usar
 │   └── Game.json             ← JSON fuente de la traducción (editable)
 ├── StringTables/             ← Archivos CSV traducidos
+├── StringTables/       ← Archivos CSV traducidos (funcionando)
+├── Locres/
+│   ├── Game.locres     ← Archivo traducido (pendiente de inyección)
+│   └── Game.json       ← JSON fuente de la traducción
 └── README.md
 ```
 
@@ -140,3 +144,16 @@ El juego usa dos sistemas distintos para los textos:
 Este proyecto es una traducción no oficial creada por fans, sin fines de lucro. No se distribuyen assets originales del juego — solo los archivos de traducción generados por los colaboradores de este repositorio. El uso de estas instrucciones requiere poseer una copia legítima del juego en Steam.
 
 **Bladesong** es propiedad de © SUN AND SERPENT creations / Mythwright. Todos los derechos reservados.
+## Contribuir
+
+1. Fork del repositorio
+2. Crea una rama: `git checkout -b mi-aporte`
+3. Haz tus cambios y commitea: `git commit -m "descripción"`
+4. Abre un Pull Request
+
+---
+
+## Créditos
+
+- Traducción: en progreso
+- Herramientas: FModel, UnrealLocres, repak, ZenTools
